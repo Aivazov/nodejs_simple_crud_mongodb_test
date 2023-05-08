@@ -1,8 +1,8 @@
-const app = require('./index');
-const mongoose = require('mongoose');
-const { DB_HOST, PORT = 8080 } = process.env;
-const dotenv = require('dotenv');
-dotenv.config();
+// const app = require('./index');
+// const mongoose = require('mongoose');
+// const { DB_HOST, PORT = 8080 } = process.env;
+// const dotenv = require('dotenv');
+// dotenv.config();
 
 // mongoose
 //   .connect(DB_HOST)
